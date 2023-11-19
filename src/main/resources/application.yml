@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+custom:
+  file-location: ${FILE_LOCATION:/Users/gavrilindima/IdeaProjects/IndividualProject/src/main/resources/data.csv}
